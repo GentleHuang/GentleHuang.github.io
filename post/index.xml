@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://gentlehuang.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://gentlehuang.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Sep 2022 20:58:23 +0800</lastBuildDate><atom:link href="https://gentlehuang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 20:58:23 +0800</lastBuildDate><atom:link href="https://gentlehuang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
       <link>https://gentlehuang.github.io/post/blog0/</link>
